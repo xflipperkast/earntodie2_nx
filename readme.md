@@ -49,8 +49,6 @@ Use the game's on-screen controls through the touchscreen. Dedicated controller 
 - A host C compiler and zlib headers for `make check`
 - Your own legally obtained **Earn to Die 2 Android 1.5.6 ARM64 XAPK** to run the game
 
-The verified toolchain is GCC 16.1.0. Installed package versions are recorded in [BUILD_ENVIRONMENT.txt](source/docs/BUILD_ENVIRONMENT.txt).
-
 ### Compile
 
 Open the source checkout:
