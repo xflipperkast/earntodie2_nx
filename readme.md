@@ -116,9 +116,6 @@ You can support development through Ko-fi:
 This is an unofficial fan project. It is not affiliated with or endorsed by **Not Doppler** or **Toffee Games**.
 
 Earn to Die 2, its trademarks, launcher artwork, audio and game assets belong to their respective rightsholders. The homebrew menu author field identifies the port maintainer, **xFlippy**.
-
-Third-party notices and outstanding source/publication licensing requirements are documented in [LICENSES.md](LICENSES.md). No blanket license is granted for inherited code or game artwork.
-
 ---
 
 ## Contribution
